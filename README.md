@@ -1,1 +1,1 @@
-# Prediction-using-Supervised-Machine-Learning
+# Forecasting-using-Supervised-Machine-Learning
